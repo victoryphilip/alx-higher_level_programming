@@ -5,8 +5,3 @@ def safe_print_integer(value):
         return True
     except (ValueError, TypeError):
         return False
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Pri
